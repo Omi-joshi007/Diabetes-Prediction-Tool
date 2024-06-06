@@ -3,7 +3,7 @@
 
 
 
-![image](https://github.com/Omi-joshi007/Diabetes-Prediction-Tool/assets/76717526/35be3893-7434-4673-b6b4-97bb38113dd2)
+![image](https://github.com/Omi-joshi007/Diabetes-Prediction-Tool/assets/76717526/a1d7b193-6a99-459d-8f0f-9ef48f43bf4d)
 ![image](https://github.com/Omi-joshi007/Diabetes-Prediction-Tool/assets/76717526/5be3abbf-7cda-4802-9ce8-f2e90d5c83b9)
 
 
@@ -12,7 +12,7 @@
 
 
 
-![image](https://github.com/Omi-joshi007/Diabetes-Prediction-Tool/assets/76717526/9c9f96fa-05a9-4780-b873-a5e1a99abd8a)
+![image](https://github.com/Omi-joshi007/Diabetes-Prediction-Tool/assets/76717526/ed4063d0-a0a9-4ba8-95e2-41040e8e7a20)
 ![image](https://github.com/Omi-joshi007/Diabetes-Prediction-Tool/assets/76717526/c6050555-6377-4319-b272-a74f97bffa60)
 
 
